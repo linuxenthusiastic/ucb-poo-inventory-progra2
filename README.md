@@ -22,7 +22,7 @@ Sistema de gestión de inventario para una tienda pequeña con soporte para prod
 3. Ejecutar: `dotnet run`
 
 ## 👤 Autor
-[Tu nombre]
+Santiago
 
 ## 📝 Tarea
 Desafío de Programación Secuencial - POO con Herencia
